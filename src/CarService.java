@@ -15,7 +15,4 @@ public interface CarService {
 
     public int gearFixing();
 
-
-
-
 }
