@@ -2,8 +2,6 @@ import java.util.HashMap;
 
 public interface CarService {
 
-//    HashMap<String , Pair> hm = new HashMap<>();
-
     HashMap<String, Pair> getServicePrices();
 
 
