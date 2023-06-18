@@ -57,7 +57,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("************************************* WELCOME TO CAR SERVICE STATTION ***************************************************");
+        System.out.println(" WELCOME TO CAR SERVICE STATTION ");
 
         while(true) {
             System.out.println("Select the options below to do particular Tasks : ");
@@ -104,14 +104,5 @@ public class Main {
                 }
             }
         }
-//        CarService carService = new SUV();
-//        SUV suv = new SUV();
-//        ArrayList<String> arr = new ArrayList<>();
-//        arr.add("BS01");
-//        arr.add("EF01");
-//        Bill bill = new Bill(carService , arr);
-//        Bill bill = new Bill(suv , arr);
-//        int sum = bill.calculateBill();
-//        System.out.println(sum);
     }
 }
